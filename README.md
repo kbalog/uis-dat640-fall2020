@@ -4,29 +4,28 @@
 
 **DISCLAIMER: Everything is subject to change.**
 
-The course follows a hybrid format, where lecture videos are provided online and classroom time is used for discussion, exercises, and working on assignments.
+The course follows a hybrid format, where lecture videos are provided online and classroom time is used for discussion, [exercises](exercises/), and working on [assignments](assignments/).
 
 Due to physical space limitations (re: COVID social distancing measures), students are divided to groups A and B. Each class and lab will be given in two identical editions, for group A (Mon and Tue 14:15-15:00, Wed 08:15-09:00) and for group B (Mon and Tue 15:15-16:00, Wed 09:15-10:00). Group assignments can be found on Canvas. Attendance will be logged.
 
-The semester is divided into lecture and project work periods, with an (optional) trial exam in between.
+The semester is divided into lecture and group project work periods, with an (optional) trial exam in between.
 
 ### Lecture period (weeks 35-42)
 
   * Mondays and Tuesdays are classes for discussion and exercises, led by Krisztian Balog (KB).
     - The respective video lectures are made available at least 24hours the class. You need to watch the video before the class, otherwise you will not be able to meaningfully participate in the discussion and undertake the exercises.
-  * Wednesdays are labs for getting help on the obligatory assignments, led by Trond Linjordet (LJ).
-  * Assignments are a mandatory requirement for this course; they need to be approved in order to qualify for the exam.
+  * Wednesdays are labs for getting help on the obligatory [assignments](assignments/), led by Trond Linjordet (TL).
+    - Assignments are to be solved individually. They constitute 50% the project work.
 
 ### Trial exam (week 43)
 
 A trial exam will be made available mirroring the same setup that will be used at the final exam. The exam will not be corrected, but the answer key will be shared.
 
-### Project work (weeks 44-46)
+### Group project work (weeks 44-46)
 
-Students will need to complete a project in groups of 2-3, and write a report that will be graded. This project grade is 40% of the final grade, and needs to be >F in order to pass the course.
+Students will need to complete a project in groups of 2-3, and write a report that will be graded.
 
 There will be a pool of options to select a project from. During the project period, each group can request a 15mins dedicated weekly discussion slot with the lecturer during the class hours (Mon/Tue), and can get feedback on the draft report from the teaching assistant during lab hours (Wed). Both in-person and remote (Zoom) options will be available.
-
 
 
 ## Detailed schedule
@@ -55,13 +54,29 @@ There will be a pool of options to select a project from. During the project per
 | 42 | Mon, Oct 12 (class, KB) | *TBD* | |
 | | Tue, Oct 13 (class, KB) | *TBD* | |
 | | Wed, Oct 14 (lab, TL) | Assignment *TBD* | |
-| 43 | *no classes/lab* | trial exam (?) | |
-| 44 | Mon, Oct 26 | Project work | |
-| | Tue, Oct 27 | Project work | |
-| | Wed, Oct 28 | Project work | |
-| 45 | Mon, Nov 2 | Project work | |
-| | Tue, Nov 3 | Project work | |
-| | Wed, Nov 4 | Project work | |
-| 46 | Mon, Nov 9 | Project work | |
-| | Tue, Nov 10 | Project work | |
-| | Wed, Nov 11 | Project work | |
+| 43 | *no classes/lab* | Trial exam | |
+| 44 | Mon, Oct 26 | Group project work | |
+| | Tue, Oct 27 | Group project work | |
+| | Wed, Oct 28 | Group project work | |
+| 45 | Mon, Nov 2 | Group project work | |
+| | Tue, Nov 3 | Group project work | |
+| | Wed, Nov 4 | Group project work | |
+| 46 | Mon, Nov 9 | Group project work | |
+| | Tue, Nov 10 | Group project work | |
+| | Wed, Nov 11 | Group project work | |
+
+## Grading
+
+The overall grade comes from two components:
+
+  * Project work (40%), of which
+    - 50% individual [assignments](assignments/)
+    - 50% group project
+  * Written exam (60%)
+
+Note that the project grade needs to be >F in order to pass the course.
+
+## Contact and getting help
+
+  * Wednesday labs are for working on the assignments. This is *the* time to get help!
+  * For all course-related matters, the primary contact email is dat640help@gmail.com
