@@ -13,7 +13,7 @@ The semester is divided into lecture and group project work periods, with an (op
 ### Lecture period (weeks 35-42)
 
   * Mondays and Tuesdays are classes for discussion and exercises, led by Krisztian Balog (KB).
-    - The respective video lectures are made available at least 24hours the class. You need to watch the video before the class, otherwise you will not be able to meaningfully participate in the discussion and undertake the exercises.
+    - The respective video lectures are made available at least 24hours before the class. You need to watch the video before the class, otherwise you will not be able to meaningfully participate in the discussion and undertake the exercises.
   * Wednesdays are labs for getting help on the obligatory [assignments](assignments/), led by Trond Linjordet (TL).
     - Assignments are to be solved individually. They constitute 50% the project work.
 
@@ -32,7 +32,7 @@ There will be a pool of options to select a project from. During the project per
 
 | Week | Day | Topic | Resources |
 | -- | -- | -- | -- |
-| 35 | Mon, Aug 24 (class, KB) | Welcome and introduction | |
+| 35 | Mon, Aug 24 (class, KB) | Welcome and introduction | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-introduction), [exercises](exercises/20200824/) |
 | | Tue, Aug 25 (class, KB) | Text classification (Part I) | |
 | | Wed, Aug 26 (lab, TL) | Assignment A1.1 | |
 | 36 | Mon, Aug 31 (class, KB) | Text classification (Part II) | |
@@ -78,5 +78,6 @@ Note that the project grade needs to be >F in order to pass the course.
 
 ## Contact and getting help
 
-  * Wednesday labs are for working on the assignments. This is *the* time to get help!
   * For all course-related matters, the primary contact email is dat640help@gmail.com
+  * Wednesday labs are for working on the assignments. This is *the* time to get help!
+  * If you need to talk to the lecturer, make an appointment via email. No drop-ins unannounced!
