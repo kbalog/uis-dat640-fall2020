@@ -32,7 +32,7 @@ There will be a pool of options to select a project from. During the project per
 
 | Week | Day | Topic | Resources |
 | -- | -- | -- | -- |
-| 35 | Mon, Aug 24 (class, KB) | Welcome and introduction | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-introduction), [exercises](exercises/20200824/) |
+| 35 | Mon, Aug 24 (class, KB) | Welcome and introduction | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-introduction), [exercises](exercises/20200824/), [solutions](solutions/20200824/) |
 | | Tue, Aug 25 (class, KB) | Text classification (Part I) | |
 | | Wed, Aug 26 (lab, TL) | Assignment A1.1 | |
 | 36 | Mon, Aug 31 (class, KB) | Text classification (Part II) | |
