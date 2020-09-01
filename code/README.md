@@ -1,0 +1,7 @@
+# Code
+
+This folder contains example code, in the form of Jupyter notebooks, that was used for demonstration during the lectures.
+
+  * Text classification using scikit-learn
+    - [Building a text classifier](text_classification.ipynb)
+    - [Feature extraction from text](text_feature_extraction.ipynb)

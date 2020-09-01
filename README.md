@@ -36,7 +36,7 @@ There will be a pool of options to select a project from. During the project per
 | | Tue, Aug 25 (class, KB) | Text classification | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification), [exercises](exercises/20200825/), [solutions](solutions/20200825/) |
 | | Wed, Aug 26 (lab, TL) | Assignment A1.1 | |
 | 36 | Mon, Aug 31 (class, KB) | Text preprocessing | [video lecture](https://youtu.be/s7vvaCtJ7iU), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-preprocessing), [exercises](exercises/20200831/), [solutions](solutions/20200831/) |
-| | Tue, Sep 1 (class, KB) | Text classification evaluation | [video lecture](https://youtu.be/TFze1mbcEbY), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-evaluation) |
+| | Tue, Sep 1 (class, KB) | Text classification evaluation | [video lecture](https://youtu.be/TFze1mbcEbY), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-evaluation), [exercises](exercises/20200901/) |
 | | Wed, Sep 2 (lab, TL) | Assignment A1.1, A1.2 | |
 | 37 | Mon, Sep 7 (class, KB) | TBD | |
 | | Tue, Sep 8 (class, KB) | TBD | |
