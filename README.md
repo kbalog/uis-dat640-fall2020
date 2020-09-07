@@ -43,16 +43,16 @@ There will be a pool of options to select a project from. During the project per
 | | Wed, Sep 9 (lab, TL) | Assignment A1.2, A1.3 | |
 | 38 | *no classes/lab* | Assignment A1.3 | |
 | 39 | Mon, Sep 21 (class, KB) | *TBD* | |
-| | Tue, Sep 22 (class, KB) | *TBD* | |
+| | Tue, Sep 22 (office hours, KB) | | |
 | | Wed, Sep 23 (lab, TL) | Assignment *TBD* | |
 | 40 | Mon, Sep 28 (class, KB) | *TBD* | |
-| | Tue, Sep 29 (class, KB) | *TBD* | |
+| | Tue, Sep 29 (office hours, KB) | | |
 | | Wed, Sep 30 (lab, TL) | Assignment *TBD* | |
 | 41 | Mon, Oct 5 (class, KB) | *TBD* | |
-| | Tue, Oct 6 (class, KB) | *TBD* | |
+| | Tue, Oct 6 (office hours, KB) | | |
 | | Wed, Oct 7 (lab, TL) | Assignment *TBD* | |
 | 42 | Mon, Oct 12 (class, KB) | *TBD* | |
-| | Tue, Oct 13 (class, KB) | *TBD* | |
+| | Tue, Oct 13 (office hours, KB) | | |
 | | Wed, Oct 14 (lab, TL) | Assignment *TBD* | |
 | 43 | *no classes/lab* | Trial exam | |
 | 44 | Mon, Oct 26 | Group project work | |
