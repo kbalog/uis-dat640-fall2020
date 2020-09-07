@@ -32,14 +32,15 @@ There will be a pool of options to select a project from. During the project per
 
 | Week | Day | Topic | Resources |
 | -- | -- | -- | -- |
-| 35 | Mon, Aug 24 (class, KB) | Welcome and introduction | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-introduction), [exercises](exercises/20200824/), [solutions](solutions/20200824/) |
-| | Tue, Aug 25 (class, KB) | Text classification | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification), [exercises](exercises/20200825/), [solutions](solutions/20200825/) |
+| 35 | Mon, Aug 24 (class, KB) | L1: Welcome and introduction | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-introduction), [exercises](exercises/20200824/), [solutions](solutions/20200824/) |
+| | Tue, Aug 25 (class, KB) | L2: Text classification | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification), [exercises](exercises/20200825/), [solutions](solutions/20200825/) |
 | | Wed, Aug 26 (lab, TL) | Assignment A1.1 | |
-| 36 | Mon, Aug 31 (class, KB) | Text preprocessing | [video lecture](https://youtu.be/s7vvaCtJ7iU), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-preprocessing), [exercises](exercises/20200831/), [solutions](solutions/20200831/) |
-| | Tue, Sep 1 (class, KB) | Text classification evaluation | [video lecture](https://youtu.be/TFze1mbcEbY), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-evaluation), [exercises](exercises/20200901/), [solutions](solutions/20200901/) |
+| 36 | Mon, Aug 31 (class, KB) | L3: Text preprocessing | [video lecture](https://youtu.be/s7vvaCtJ7iU), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-preprocessing), [exercises](exercises/20200831/), [solutions](solutions/20200831/) |
+| | Tue, Sep 1 (class, KB) | L4: Text classification evaluation | [video lecture](https://youtu.be/TFze1mbcEbY), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-evaluation), [exercises](exercises/20200901/), [solutions](solutions/20200901/) |
 | | Wed, Sep 2 (lab, TL) | Assignment A1.1, A1.2 | |
-| 37 | Mon, Sep 7 (class, KB) | TBD | |
-| | Tue, Sep 8 (class, KB) | TBD | |
+| 37 | Mon, Sep 7 (class, KB) | L5: Text classification: Naive Bayes  | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-naive-bayes), [exercises](exercises/20200907/) |
+| | | L6: Text clustering | [exercises](exercises/20200907/) |
+| | Tue, Sep 8 (office hours, KB) | | |
 | | Wed, Sep 9 (lab, TL) | Assignment A1.2, A1.3 | |
 | 38 | *no classes/lab* | Assignment A1.3 | |
 | 39 | Mon, Sep 21 (class, KB) | *TBD* | |
