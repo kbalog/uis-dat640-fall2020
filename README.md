@@ -6,14 +6,18 @@
 
 The course follows a hybrid format, where lecture videos are provided online and classroom time is used for discussion, [exercises](exercises/), and working on [assignments](assignments/).
 
-Due to physical space limitations (re: COVID social distancing measures), students are divided to groups A and B. Each class and lab will be given in two identical editions, for group A (Mon and Tue 14:15-15:00, Wed 08:15-09:00) and for group B (Mon and Tue 15:15-16:00, Wed 09:15-10:00). Group assignments can be found on Canvas. Attendance will be logged.
+This course involves **self-study** (which can be completed online): You're expected to watch the lecture videos, read the corresponding book chapters/sections listed on the last slide of each lecture deck, as well as complete the exercises on GitHub.
+
+There is also a **physical component** which is not obligatory, but highly recommended for an optimal learning experience. This involves discussion and exercises in a regular classroom setting.
+
+There is a double lecture on Mondays, 14:15-16:00 (without dividing into A/B groups). The Tuesday 14:15-16:00 slot is kept for open office hours (in KE E-433). Note that open office hours are meant for questions regarding the lecture material and/or exercises. Issues related to the assignments should be addressed at lab sessions on Wednesdays.
 
 The semester is divided into lecture and group project work periods, with an (optional) trial exam in between.
 
 ### Lecture period (weeks 35-42)
 
   * Mondays and Tuesdays are classes for discussion and exercises, led by Krisztian Balog (KB).
-    - The respective video lectures are made available at least 24hours before the class. You need to watch the video before the class, otherwise you will not be able to meaningfully participate in the discussion and undertake the exercises.
+    - The respective video lectures are made available either before or after the class (depending on the topic). If the video is made available before the class, you are expected to watch it, in order to be able to meaningfully participate in the discussion and undertake the exercises.
   * Wednesdays are labs for getting help on the obligatory [assignments](assignments/), led by Trond Linjordet (TL).
     - Assignments are to be solved individually. They constitute 50% the project work.
 
