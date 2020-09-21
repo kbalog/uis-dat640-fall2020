@@ -1,5 +1,9 @@
 # Information Retrieval and Text Mining course (DAT640), University of Stavanger, fall 2020
 
+## Updates
+
+  * **Sep 21** Results for assignments A1.1 and A1.2 have been posted on Canvas. If you have any questions, you can ask them during the Wednesday labs or send an email to dat640help@gmail.com.
+
 ## Course format
 
 **DISCLAIMER: Everything is subject to change.**
@@ -32,43 +36,28 @@ Students will need to complete a project in groups of 2-3, and write a report th
 There will be a pool of options to select a project from. During the project period, each group can request a 15mins dedicated weekly discussion slot with the lecturer during the class hours (Mon/Tue), and can get feedback on the draft report from the teaching assistant during lab hours (Wed). Both in-person and remote (Zoom) options will be available.
 
 
-## Detailed schedule
+## Lectures and material
 
-| Week | Day | Topic | Resources |
-| -- | -- | -- | -- |
-| 35 | Mon, Aug 24 (class, KB) | L1: Welcome and introduction | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-introduction), [exercises](exercises/20200824/), [solutions](solutions/20200824/) |
-| | Tue, Aug 25 (class, KB) | L2: Text classification | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification), [exercises](exercises/20200825/), [solutions](solutions/20200825/) |
-| | Wed, Aug 26 (lab, TL) | Assignment A1.1 | |
-| 36 | Mon, Aug 31 (class, KB) | L3: Text preprocessing | [video lecture](https://youtu.be/s7vvaCtJ7iU), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-preprocessing), [exercises](exercises/20200831/), [solutions](solutions/20200831/) |
-| | Tue, Sep 1 (class, KB) | L4: Text classification evaluation | [video lecture](https://youtu.be/TFze1mbcEbY), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-evaluation), [exercises](exercises/20200901/), [solutions](solutions/20200901/) |
-| | Wed, Sep 2 (lab, TL) | Assignment A1.1, A1.2 | |
-| 37 | Mon, Sep 7 (class, KB) | L5: Text classification: Naive Bayes  | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-naive-bayes), [exercises](exercises/20200907/) |
-| | | L6: Text clustering | [exercises](exercises/20200907/) |
-| | Tue, Sep 8 (office hours, KB) | | |
-| | Wed, Sep 9 (lab, TL) | Assignment A1.2, A1.3 | |
-| 38 | *no classes/lab* | Assignment A1.3 | |
-| 39 | Mon, Sep 21 (class, KB) | *TBD* | |
-| | Tue, Sep 22 (office hours, KB) | | |
-| | Wed, Sep 23 (lab, TL) | Assignment *TBD* | |
-| 40 | Mon, Sep 28 (class, KB) | *TBD* | |
-| | Tue, Sep 29 (office hours, KB) | | |
-| | Wed, Sep 30 (lab, TL) | Assignment *TBD* | |
-| 41 | Mon, Oct 5 (class, KB) | *TBD* | |
-| | Tue, Oct 6 (office hours, KB) | | |
-| | Wed, Oct 7 (lab, TL) | Assignment *TBD* | |
-| 42 | Mon, Oct 12 (class, KB) | *TBD* | |
-| | Tue, Oct 13 (office hours, KB) | | |
-| | Wed, Oct 14 (lab, TL) | Assignment *TBD* | |
-| 43 | *no classes/lab* | Trial exam | |
-| 44 | Mon, Oct 26 | Group project work | |
-| | Tue, Oct 27 | Group project work | |
-| | Wed, Oct 28 | Group project work | |
-| 45 | Mon, Nov 2 | Group project work | |
-| | Tue, Nov 3 | Group project work | |
-| | Wed, Nov 4 | Group project work | |
-| 46 | Mon, Nov 9 | Group project work | |
-| | Tue, Nov 10 | Group project work | |
-| | Wed, Nov 11 | Group project work | |
+| Date | Topic | Resouces |
+| -- | -- | -- |
+| Aug 24 | L1: Welcome and introduction | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-introduction), [exercises](exercises/20200824/), [solutions](solutions/20200824/) |
+| Aug 25 | L2: Text classification | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification), [exercises](exercises/20200825/), [solutions](solutions/20200825/) |
+| Aug 31 | L3: Text preprocessing | [video lecture](https://youtu.be/s7vvaCtJ7iU), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-preprocessing), [exercises](exercises/20200831/), [solutions](solutions/20200831/) |
+| Sep 1 | L4: Text classification evaluation | [video lecture](https://youtu.be/TFze1mbcEbY), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-evaluation), [exercises](exercises/20200901/), [solutions](solutions/20200901/) |
+| Sep 7 | L5: Text classification: Naive Bayes  | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-naive-bayes), [exercises](exercises/20200907/) |
+| | L6: Text clustering | (slides to be added) [exercises](exercises/20200907/) |
+| Sep 21 | L6: Search engine architecture | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-search-engine-architecture) |
+| L7: Indexing and query processing | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-indexing-and-query-processing) |
+| L8: Retrieval evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-evaluation) |
+| Sep 28 | Retrieval models | |
+| | L9: Query modeling | |
+| | L10: Web search | |
+| Oct 5 | L11: Semantic search: Entity-oriented search | |
+|  | L12: Semantic search: Entity retrieval | |
+|  | L13: Semantic search: Entity linking | |
+| Oct 12 | L14: Learning to rank | |
+|  | L15: Neural IR | |
+
 
 ## Grading
 
