@@ -47,8 +47,8 @@ There will be a pool of options to select a project from. During the project per
 | Sep 7 | L5: Text classification: Naive Bayes  | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-naive-bayes), [exercises](exercises/20200907/) |
 | | L6: Text clustering | (slides to be added) [exercises](exercises/20200907/) |
 | Sep 21 | L6: Search engine architecture | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-search-engine-architecture) |
-| L7: Indexing and query processing | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-indexing-and-query-processing) |
-| L8: Retrieval evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-evaluation) |
+| | L7: Indexing and query processing | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-indexing-and-query-processing) |
+| | L8: Retrieval evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-evaluation) |
 | Sep 28 | Retrieval models | |
 | | L9: Query modeling | |
 | | L10: Web search | |
