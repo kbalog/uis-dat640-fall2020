@@ -40,25 +40,25 @@ There will be a pool of options to select a project from. During the project per
 
 ## Lectures and material
 
-| Date | Topic | Resouces |
+| Date | Topic | Lectures | Exercises |
 | -- | -- | -- |
-| Aug 24 | L1: Welcome and introduction | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-introduction), [exercises](exercises/20200824/), [solutions](solutions/20200824/) |
-| Aug 25 | L2: Text classification | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification), [exercises](exercises/20200825/), [solutions](solutions/20200825/) |
-| Aug 31 | L3: Text preprocessing | [video lecture](https://youtu.be/s7vvaCtJ7iU), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-preprocessing), [exercises](exercises/20200831/), [solutions](solutions/20200831/) |
-| Sep 1 | L4: Text classification evaluation | [video lecture](https://youtu.be/TFze1mbcEbY), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-evaluation), [exercises](exercises/20200901/), [solutions](solutions/20200901/) |
+| Aug 24 | L1: Welcome and introduction | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-introduction) | [exercises](exercises/20200824/), [solutions](solutions/20200824/) |
+| Aug 25 | L2: Text classification | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification) | [exercises](exercises/20200825/), [solutions](solutions/20200825/) |
+| Aug 31 | L3: Text preprocessing | [video lecture](https://youtu.be/s7vvaCtJ7iU), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-preprocessing) | [exercises](exercises/20200831/), [solutions](solutions/20200831/) |
+| Sep 1 | L4: Text classification evaluation | [video lecture](https://youtu.be/TFze1mbcEbY), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-evaluation) | [exercises](exercises/20200901/), [solutions](solutions/20200901/) |
 | Sep 7 | L5: Text classification: Naive Bayes  | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-naive-bayes), [exercises](exercises/20200907/) |
-| | L6: Text clustering | (slides to be added) [exercises](exercises/20200907/) |
-| Sep 21 | L6: Search engine architecture | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-search-engine-architecture) |
-| | L7: Indexing and query processing | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-indexing-and-query-processing) |
-| | L8: Retrieval evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-evaluation) |
-| Sep 28 | Retrieval models | |
-| | L9: Query modeling | |
-| | L10: Web search | |
-| Oct 5 | L11: Semantic search: Entity-oriented search | |
-|  | L12: Semantic search: Entity retrieval | |
-|  | L13: Semantic search: Entity linking | |
-| Oct 12 | L14: Learning to rank | |
-|  | L15: Neural IR | |
+| | L6: Text clustering | (slides to be added) | [exercises](exercises/20200907/) |
+| Sep 21 | L6: Search engine architecture | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-search-engine-architecture) | [exercises](exercises/20200922/), [solutions](solutions/20200922/) |
+| | L7: Indexing and query processing | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-indexing-and-query-processing) | |
+| | L8: Retrieval evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-evaluation) | |
+| Sep 28 | Retrieval models | | |
+| | L9: Query modeling | | |
+| | L10: Web search | | |
+| Oct 5 | L11: Semantic search: Entity-oriented search | | |
+|  | L12: Semantic search: Entity retrieval | | |
+|  | L13: Semantic search: Entity linking | | |
+| Oct 12 | L14: Learning to rank | | |
+|  | L15: Neural IR | | |
 
 
 ## Grading
