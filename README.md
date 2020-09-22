@@ -41,7 +41,7 @@ There will be a pool of options to select a project from. During the project per
 ## Lectures and material
 
 | Date | Topic | Lectures | Exercises |
-| -- | -- | -- |
+| -- | -- | -- | -- | 
 | Aug 24 | L1: Welcome and introduction | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-introduction) | [exercises](exercises/20200824/), [solutions](solutions/20200824/) |
 | Aug 25 | L2: Text classification | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification) | [exercises](exercises/20200825/), [solutions](solutions/20200825/) |
 | Aug 31 | L3: Text preprocessing | [video lecture](https://youtu.be/s7vvaCtJ7iU), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-preprocessing) | [exercises](exercises/20200831/), [solutions](solutions/20200831/) |
