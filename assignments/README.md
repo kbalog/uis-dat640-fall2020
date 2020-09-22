@@ -5,9 +5,10 @@ Three main assignments, with the first two divided into sub-assignments (A and B
 | Assignment | Announced | Deadline | Points |
 | -- | :--: | :--: | --: |
 | Assignment 1 (three parts) ||| 10 |
-| A1.1 | 25/08 | 08/09 16:00 | 2 |
-| A1.2 | 01/09 | 15/09 16:00 | 3 |
-| A1.3 ([amendments](A1_3_amendments.md)) | 08/09 | 22/09 16:00 | 5 |
+|   A1.1 | 25/08 | 08/09 16:00 | 2 |
+|   A1.2 | 01/09 | 15/09 16:00 | 3 |
+|   A1.3 ([amendments](A1_3_amendments.md)) | 08/09 | 22/09 16:00 | 5 |
+| Assignment 2 (A2) | 22/09 | 06/10 16:00 | 10 |
 | ... |
 | **Total** | | | **50** |
 

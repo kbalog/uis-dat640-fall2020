@@ -2,6 +2,7 @@
 
 ## Updates
 
+  * **Sep 22** Assignment 2 has been announced. The Jupyter notebook you need to complete can be found in your personal GitHub repository. This assignment is wort 10 points. The deadline is Oct 6, 16:00.
   * **Sep 21** You may use the [Issues tab](../../issues/) for posting questions. That way other could also benefit from a clarification. That way other could also benefit from a clarification (and you can also help your fellow students). For example, multiple people raised the issue of "infected" files for A1.3, which has now been clarified [there](../../issues/1).
   * **Sep 21** New format for the next 4 weeks! As of this week, Mondays will be lectures exclusively (lecture videos will follow). The exercises will be posted and done on Tuesdays. People can join in person in the lecture room or work on them remotely and ask for help on the [dedicated slack channel](https://uis-iai.slack.com/archives/C01AW7CA38E). (Note: this slack channel is reserved for this time-slot, i.e., Tuesdays between 14.15 and 16.00).
   * **Sep 21** Results for assignments A1.1 and A1.2 have been posted on Canvas. If you have any questions, you can ask them during the Wednesday labs or send an email to dat640help@gmail.com.
@@ -51,15 +52,15 @@ There will be a pool of options to select a project from. During the project per
 | Sep 21 | L6: Search engine architecture | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-search-engine-architecture) | [exercises](exercises/20200922/), [solutions](solutions/20200922/) |
 | | L7: Indexing and query processing | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-indexing-and-query-processing) | |
 | | L8: Retrieval evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-evaluation) | |
-| Sep 28 | Retrieval models | | |
-| | L9: Query modeling | | |
-| | L10: Web search | | |
-| Oct 5 | L11: Semantic search: Entity-oriented search | | |
-|  | L12: Semantic search: Entity retrieval | | |
-|  | L13: Semantic search: Entity linking | | |
-| Oct 12 | L14: Learning to rank | | |
-|  | L15: Neural IR | | |
-
+| Sep 28 | L9: Retrieval models | | |
+| | L10: Query modeling | | |
+| | L11: Web search | | |
+| Oct 5 | L12: Semantic search: Entity-oriented search | | |
+|  | L13: Semantic search: Entity retrieval | | |
+|  | L14: Semantic search: Entity linking | | |
+| Oct 12 | L15: Learning to rank | | |
+|  | L16: Neural IR (invited) | | |
+|  | L17: Table retrieval (invited) | | |
 
 ## Grading
 
