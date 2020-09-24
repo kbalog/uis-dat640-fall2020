@@ -12,7 +12,7 @@ Three main assignments, with the first two divided into sub-assignments (A and B
 | Assignment 3 (A3) | 29/09 | 13/10 16:00 | 10 | Not announced yet |
 | Assignment 4 (A4) | 06/10 | 20/10 16:00 | 10 | Not announced yet |
 | Assignment 5 (A5) | 13/10 | 27/10 16:00 | 10 | Not announced yet |
-| **Total** | | | **50** |
+| **Total** | | | **50** | |
 
 ## Workflow and rules
 
