@@ -3,7 +3,7 @@
 Three main assignments, with the first two divided into sub-assignments (A and B parts).
 
 | Assignment | Announced | Deadline | Points | Status |
-| -- | :--: | :--: | --: | --: |
+| -- | :--: | :--: | --: | -- |
 | Assignment 1 (three parts) ||| 10 | |
 |   A1.1 | 25/08 | 08/09 16:00 | 2 | Closed, graded |
 |   A1.2 | 01/09 | 15/09 16:00 | 3 | Closed, graded |
