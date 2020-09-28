@@ -50,18 +50,18 @@ There will be a pool of options to select a project from. During the project per
 | Sep 1 | L4: Text classification evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-evaluation), [video lecture](https://youtu.be/TFze1mbcEbY) | [exercises](exercises/20200901/), [solutions](solutions/20200901/) |
 | Sep 7 | L5: Text classification: Naive Bayes  | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-naive-bayes) | [exercises](exercises/20200907/) |
 | | L6: Text clustering | (slides to be added) | [exercises](exercises/20200907/) |
-| Sep 21 | L6: Search engine architecture | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-search-engine-architecture) | [exercises](exercises/20200922/), [solutions](solutions/20200922/) |
-| | L7: Indexing and query processing | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-indexing-and-query-processing) | |
-| | L8: Retrieval evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-evaluation) | |
-| Sep 28 | L9: Retrieval models | | |
-| | L10: Query modeling | | |
-| | L11: Web search | | |
-| Oct 5 | L12: Semantic search: Entity-oriented search | | |
-|  | L13: Semantic search: Entity retrieval | | |
-|  | L14: Semantic search: Entity linking | | |
-| Oct 12 | L15: Learning to rank | | |
-|  | L16: Neural IR (invited) | | |
-|  | L17: Table retrieval (invited) | | |
+| Sep 21 | L7: Search engine architecture | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-search-engine-architecture) | [exercises](exercises/20200922/), [solutions](solutions/20200922/) |
+| | L8: Indexing and query processing | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-indexing-and-query-processing) | |
+| | L9: Retrieval evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-evaluation) | |
+| Sep 28 | L10: Retrieval models | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-models) | |
+| | L11: Query modeling | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-query-modeling) | |
+| | L12: Web search | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-web-search) | |
+| Oct 5 | L13: Semantic search: Entity-oriented search | | |
+|  | L14: Semantic search: Entity retrieval | | |
+|  | L15: Semantic search: Entity linking | | |
+| Oct 12 | L16: Learning to rank | | |
+|  | L17: Neural IR (invited) | | |
+|  | L18: Table retrieval (invited) | | |
 
 ## Grading
 
