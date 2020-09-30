@@ -9,7 +9,7 @@ Three main assignments, with the first two divided into sub-assignments (A and B
 |   A1.2 | 01/09 | 15/09 16:00 | 3 | Closed, graded |
 |   A1.3 ([amendments](A1_3_amendments.md)) | 08/09 | 22/09 16:00 | 5 | Closed, grading in progress |
 | Assignment 2 (A2) | 22/09 | 06/10 16:00 | 10 | Open |
-| Assignment 3 (A3) | 29/09 | 13/10 16:00 | 10 | Not announced yet |
+| Assignment 3 (A3) | 30/09 | 13/10 16:00 | 10 | Not announced yet |
 | Assignment 4 (A4) | 06/10 | 20/10 16:00 | 10 | Not announced yet |
 | Assignment 5 (A5) | 13/10 | 27/10 16:00 | 10 | Not announced yet |
 | **Total** | | | **50** | |

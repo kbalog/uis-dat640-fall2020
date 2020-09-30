@@ -2,8 +2,9 @@
 
 ## Updates
 
+  * **Sep 30** Assigment 3 has been announced. The Jupyter notebook you need to complete can be found in your personal GitHub repository. This assignment is worth 10 points. The deadline is Oct 13, 16:00.
   * **Sep 24** General information on assignment grading and delivery has been posted [here](assignments/).
-  * **Sep 22** Assignment 2 has been announced. The Jupyter notebook you need to complete can be found in your personal GitHub repository. This assignment is wort 10 points. The deadline is Oct 6, 16:00.
+  * **Sep 22** Assignment 2 has been announced. The Jupyter notebook you need to complete can be found in your personal GitHub repository. This assignment is worth 10 points. The deadline is Oct 6, 16:00.
   * **Sep 21** You may use the [Issues tab](../../issues/) for posting questions. That way other could also benefit from a clarification. That way other could also benefit from a clarification (and you can also help your fellow students). For example, multiple people raised the issue of "infected" files for A1.3, which has now been clarified [there](../../issues/1).
   * **Sep 21** New format for the next 4 weeks! As of this week, Mondays will be lectures exclusively (lecture videos will follow). The exercises will be posted and done on Tuesdays. People can join in person in the lecture room or work on them remotely and ask for help on the [dedicated slack channel](https://uis-iai.slack.com/archives/C01AW7CA38E). (Note: this slack channel is reserved for this time-slot, i.e., Tuesdays between 14.15 and 16.00).
   * **Sep 21** Results for assignments A1.1 and A1.2 have been posted on Canvas. If you have any questions, you can ask them during the Wednesday labs or send an email to dat640help@gmail.com.
