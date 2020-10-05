@@ -57,9 +57,9 @@ There will be a pool of options to select a project from. During the project per
 | Sep 28 | L10: Retrieval models | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-models) | [exercises](exercises/20200929/), [solutions](solutions/20200929/) |
 | | L11: Query modeling | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-query-modeling) | |
 | | L12: Web search | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-web-search) | |
-| Oct 5 | L13: Semantic search: Entity-oriented search | | |
-|  | L14: Semantic search: Entity retrieval | | |
-|  | L15: Semantic search: Entity linking | | |
+| Oct 5 | L13: Semantic search: Entity-oriented search | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-oriented-search) | |
+|  | L14: Semantic search: Entity retrieval | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-retrieval) | |
+|  | L15: Semantic search: Entity linking | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-linking) | |
 | Oct 12 | L16: Learning to rank | | |
 |  | L17: Neural IR (invited) | | |
 |  | L18: Table retrieval (invited) | | |
