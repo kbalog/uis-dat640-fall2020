@@ -2,6 +2,7 @@
 
 ## Updates
 
+  * **Oct 5** An error was discovered in assignment A3 in the description under ‘BM25 scoring’, where IDF is defined without the logarithmic function. Instead, IDF should be computed by taking the log of N/n_t.
   * **Sep 30** Assigment 3 has been announced. The Jupyter notebook you need to complete can be found in your personal GitHub repository. This assignment is worth 10 points. The deadline is Oct 13, 16:00.
   * **Sep 24** General information on assignment grading and delivery has been posted [here](assignments/).
   * **Sep 22** Assignment 2 has been announced. The Jupyter notebook you need to complete can be found in your personal GitHub repository. This assignment is worth 10 points. The deadline is Oct 6, 16:00.
