@@ -7,4 +7,4 @@ This folder contains example code, in the form of Jupyter notebooks, that was us
     - [Feature extraction from text](text_feature_extraction.ipynb)
   * Text processing using NLTK
     - [Text preprocessing](text_preprocessing_nltk.ipynb)
-  
+  * [Elasticsearch](elasticsearch/)  
