@@ -215,7 +215,9 @@ stats = es.indices.stats(index=INDEX_NAME)
 
 ## Search
 
-Search documents (blog posts) for the query "search distributed".
+Search is performed using the [Search API](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-search.html).
+
+In the example below, we search for documents (blog posts) that match the query "search distributed".
 
 ### From the command line (or browser)
 
