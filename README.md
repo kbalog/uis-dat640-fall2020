@@ -61,7 +61,7 @@ There will be a pool of options to select a project from. During the project per
 | Oct 5 | L13: Semantic search: Entity-oriented search | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-oriented-search) | [exercises](exercises/20201006/), [solutions](solutions/20201006/) |
 |  | L14: Semantic search: Entity retrieval | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-retrieval) | |
 |  | L15: Semantic search: Entity linking | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-linking) | |
-| | Elasticsearch | [code](code/elasticsearch) | |
+| | Elasticsearch | [description](code/elasticsearch) | |
 | Oct 12 | L16: Learning to rank | | |
 |  | L17: Neural IR (invited) | | |
 |  | L18: Table retrieval (invited) | | |
