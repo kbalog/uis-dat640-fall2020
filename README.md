@@ -2,6 +2,7 @@
 
 ## Updates
 
+  * **Oct 7** The results for Assignment A2 have been published on Canvas. Questions concerning assignment correction may be asked during the Wed labs or via email at dat640help@gmail.com.
   * **Oct 7** Assigment 4 has been announced. The Jupyter notebook you need to complete can be found in your personal GitHub repository. This assignment is worth 10 points. The deadline is Oct 20, 16:00.
   * **Oct 7** The results for Assignment A1.3 have been published on Canvas. Given that A1.3 was one of the earlier assignments, we decided to be lenient and manually grade A1.3 to give students as many points as reasonable, which took some time. Please keep in mind for future submissions that your notebook may need to run on a different machine with a different OS, so (i) use os.path to construct paths, and (ii) be mindful of iterable data structures that may not guarantee a specific ordering of elements unless sorted. **The [general instructions for assignments](assignments/) have been extended. Please carefully check them, as we will rely on fully automatic grading in subsequent assignments.**
   * **Oct 5** An error was discovered in assignment A3 in the description under ‘BM25 scoring’, where IDF is defined without the logarithmic function. Instead, IDF should be computed by taking the log of N/n_t.

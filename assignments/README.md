@@ -7,10 +7,10 @@ Three main assignments, with the first two divided into sub-assignments (A and B
 | Assignment 1 (three parts) ||| 10 | |
 |   A1.1 | 25/08 | 08/09 16:00 | 2 | Closed, graded |
 |   A1.2 | 01/09 | 15/09 16:00 | 3 | Closed, graded |
-|   A1.3 ([amendments](A1_3_amendments.md)) | 08/09 | 22/09 16:00 | 5 | Closed, grading in progress |
-| Assignment 2 (A2) | 22/09 | 06/10 16:00 | 10 | Open |
-| Assignment 3 (A3) | 30/09 | 13/10 16:00 | 10 | Not announced yet |
-| Assignment 4 (A4) | 07/10 | 20/10 16:00 | 10 | Not announced yet |
+|   A1.3 ([amendments](A1_3_amendments.md)) | 08/09 | 22/09 16:00 | 5 | Closed, graded |
+| Assignment 2 (A2) | 22/09 | 06/10 16:00 | 10 | Closed, graded |
+| Assignment 3 (A3) | 30/09 | 13/10 16:00 | 10 | Open |
+| Assignment 4 (A4) | 07/10 | 20/10 16:00 | 10 | Open |
 | Assignment 5 (A5) | 13/10 | 27/10 16:00 | 10 | Not announced yet |
 | **Total** | | | **50** | |
 
@@ -42,7 +42,7 @@ Three main assignments, with the first two divided into sub-assignments (A and B
     - You may **not** include any `pip install`, `conda install`, or any other commands that change the environment which the autograder is running in. If you do, you may lose all points for that assignment.
     - You may be expected to modify you environment outside of the provided notebook. Managing environments with Anaconda is helpful for this.
   * Time-out:
-    - Unless an exception is explicitly stated, your entire notebook should complete within 1-2 hours. If your solution is more time-consuming than that, even if a test would pass eventually, your submission may lose marks. 
+    - Unless an exception is explicitly stated, your entire notebook should complete within 1-2 hours. If your solution is more time-consuming than that, even if a test would pass eventually, your submission may lose marks.
   * Do not change the name of the notebook file.
   * Make sure not to push data files to your assignment repository. This is mostly take care of by the initial code provided in the assignment notebooks, but you may wish to add additional lines to the `.gitignore` file in each assignment folder before making any commits that include large data files.
 
