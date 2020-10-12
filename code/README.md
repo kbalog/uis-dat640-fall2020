@@ -8,3 +8,4 @@ This folder contains example code, in the form of Jupyter notebooks, that was us
   * Text processing using NLTK
     - [Text preprocessing](text_preprocessing_nltk.ipynb)
   * [Elasticsearch](elasticsearch/)  
+  * [Learning to Rank using scikit-learn](LTR.ipynb)
