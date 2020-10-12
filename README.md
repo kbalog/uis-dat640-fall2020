@@ -40,7 +40,7 @@ A trial exam will be made available mirroring the same setup that will be used a
 
 ### Group project work (weeks 44-46)
 
-Students will need to complete a project in groups of 2-3, and write a report that will be graded.
+Students will need to complete a [project](project/) in groups of 2-3, and write a report that will be graded.
 
 There will be a pool of options to select a project from. During the project period, each group can request a 15mins dedicated weekly discussion slot with the lecturer during the class hours (Mon/Tue), and can get feedback on the draft report from the teaching assistant during lab hours (Wed). Both in-person and remote (Zoom) options will be available.
 

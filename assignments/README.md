@@ -20,7 +20,7 @@ Three main assignments, with the first two divided into sub-assignments (A and B
   * You are given 2 weeks for each assignment. You need to submit and push the solution to GitHub before the indicated deadline.
   * Deadlines are strict, no extensions, no exceptions!
   * We have a zero tolerance policy for cheating. Copying someone else's solution, even in part, will be considered plagiarism and may result in failing the whole course.
-  * Assignments account for **40% of the final grade**.
+  * Assignments and project work account for **40% of the final grade**.
 
 ## General instructions
 
