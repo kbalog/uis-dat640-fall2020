@@ -1,4 +1,4 @@
-# Assignment 1.3 amendments
+# Assignment 1.3 Errata
 
 Some mistakes were found in A1.3, in the markdown description of the functions `extract_features` and `evaluate`.  These are the updated descriptions:
 

@@ -7,11 +7,11 @@ Three main assignments, with the first two divided into sub-assignments (A and B
 | Assignment 1 (three parts) ||| 10 | |
 |   A1.1 | 25/08 | 08/09 16:00 | 2 | Closed, graded |
 |   A1.2 | 01/09 | 15/09 16:00 | 3 | Closed, graded |
-|   A1.3 ([amendments](A1_3_amendments.md)) | 08/09 | 22/09 16:00 | 5 | Closed, graded |
+|   A1.3 ([errata](A1_3_errata.md)) | 08/09 | 22/09 16:00 | 5 | Closed, graded |
 | Assignment 2 (A2) | 22/09 | 06/10 16:00 | 10 | Closed, graded |
 | Assignment 3 (A3) | 30/09 | 13/10 16:00 | 10 | Open |
-| Assignment 4 (A4) | 07/10 | 20/10 16:00 | 10 | Open |
-| Assignment 5 (A5) | 13/10 | 27/10 16:00 | 10 | Not announced yet |
+| Assignment 4 (A4) [erratum](A4_erratum.md) | 07/10 | 20/10 16:00 | 10 | Open |
+| Assignment 5 (A5) | 14/10 | 27/10 16:00 | 10 | Not announced yet |
 | **Total** | | | **50** | |
 
 ## Workflow and rules
