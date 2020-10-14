@@ -11,19 +11,19 @@ On the sign up form, you'll need to specify a first and a second project prefere
 
 You may choose one from the following projects:
 
-  * [MS Marco Document re-ranking](https://microsoft.github.io/msmarco/)
+  * **[MS Marco Document re-ranking](https://microsoft.github.io/msmarco/)**
     - Given a candidate top-100 document as retrieved by BM25, re-rank documents by relevance. This task has also run as part of the TREC 2019 Deep Learning track.
     - Document collection: MS MARCO document corpus (3.2M documents, 22GB)
     - Resources
       - [Task GitHub repo](https://github.com/microsoft/MSMARCO-Document-Ranking)
       - [TREC 2019 Deep Learning track overview](https://arxiv.org/abs/2003.07820)
-  * [TREC 2019 Conversational Assistance](http://www.treccast.ai/)
+  * **[TREC 2019 Conversational Assistance](http://www.treccast.ai/)**
     - Given a series of conversational utterances, identify relevant passages for each user utterance that satisfies the user's information need.
     - Document collection: MARCO Ranking passages, Wikipedia, and News (Washington Post)
     - Resources
       - [Task GitHub repo](https://github.com/daltonj/treccastweb)
       - [TREC 2019 Conversational Assistance track overview](https://arxiv.org/abs/2003.13624)
-  * [Semantic Answer Type Prediction](https://smart-task.github.io/)
+  * **[Semantic Answer Type Prediction](https://smart-task.github.io/)**
     - Given a question in natural language, the task is to predict type of the answer using a set of candidates from a target ontology (DBpedia).
     - Document collection: DBpedia ([dump 2016-10](https://wiki.dbpedia.org/downloads-2016-10)) and/or Wikidata
     - Resources
