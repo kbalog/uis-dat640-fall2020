@@ -9,9 +9,9 @@ Three main assignments, with the first two divided into sub-assignments (A and B
 |   A1.2 | 01/09 | 15/09 16:00 | 3 | Closed, graded |
 |   A1.3 ([errata](A1_3_errata.md)) | 08/09 | 22/09 16:00 | 5 | Closed, graded |
 | Assignment 2 (A2) | 22/09 | 06/10 16:00 | 10 | Closed, graded |
-| Assignment 3 (A3) | 30/09 | 13/10 16:00 | 10 | Open |
+| Assignment 3 (A3) | 30/09 | 13/10 16:00 | 10 | Closed, being graded |
 | Assignment 4 (A4) ([erratum](A4_erratum.md)) | 07/10 | 20/10 16:00 | 10 | Open |
-| Assignment 5 (A5) | 14/10 | 27/10 16:00 | 10 | Not announced yet |
+| Assignment 5 (A5) | 14/10 | 27/10 16:00 | 10 | Open |
 | **Total** | | | **50** | |
 
 ## Workflow and rules

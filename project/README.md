@@ -61,11 +61,22 @@ Projects will be graded on the following criteria:
 
 | Criteria | Points |
 | -- | -- |
-| Problem understanding | *TBD* |
-| Baseline method | *TBD* |
-| Advanced method(s) | *TBD* |
-| Report | *TBD* |
-| Code quality | *TBD* |
+| Problem understanding | 5 |
+| Baseline method | 10 |
+| Advanced method(s) | 15 |
+| Report | 15 |
+| Code quality | 5 |
 | **Total** | **50** |
 
 *More details on each of the above criteria will follow.*
+
+  * Problem understanding
+    - Your ability to explain ("re-state") the problem and the associated challenges clearly. Identifying main families of approaches developed for the task at hand (literature review).
+  * Baseline method
+    - Establishing a sensible baseline and evaluating it experimentally.
+  * Advanced method(s)
+    - Motivating, designing and implementing one or multiple advanced approaches (either extending the baseline or employing a completely different approach found in the literature or designed by you). Key factors determining the points awarded include clarity of argumentation, creativity, demonstrated understanding of the advanced methods, extensiveness of the experiments, overall performance (improvements over baseline).
+  * Report
+    - Ability to clearly explain the motivation behind the choices, the process you went through, and key technical decisions in a way that your results are reproducible based on the provided description. Analysis and discussion of results. Illustrations, plots and tables.
+  * Code quality
+    - Clearly structured and readable code. Readability includes sensible variable/method naming conventions and adding docstrings/comments where necessary. 

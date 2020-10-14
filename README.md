@@ -2,6 +2,7 @@
 
 ## Updates
 
+  * **Oct 14** The last assignment (A5) for 10 points has been pushed to the personal GitHub repositories. The deadline is 27/10 16:00.
   * **Oct 13** An error has been discovered in the description of Assignment A4 concerning the value of the Dirichlet smoothing parameter. See the [erratum](assignments/A4_erratum.md).
   * **Oct 7** The results for Assignment A2 have been published on Canvas. Questions concerning assignment correction may be asked during the Wed labs or via email at dat640help@gmail.com.
   * **Oct 7** Assigment 4 has been announced. The Jupyter notebook you need to complete can be found in your personal GitHub repository. This assignment is worth 10 points. The deadline is Oct 20, 16:00.
