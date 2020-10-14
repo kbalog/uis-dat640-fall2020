@@ -13,7 +13,7 @@ You may choose one from the following projects:
 
   * [MS Marco Document re-ranking](https://microsoft.github.io/msmarco/)
     - Given a candidate top-100 document as retrieved by BM25, re-rank documents by relevance. This task has also run as part of the TREC 2019 Deep Learning track.
-    - Document collection: 3.2M documents (22GB)
+    - Document collection: MS MARCO document corpus (3.2M documents, 22GB)
     - Resources
       - [Task GitHub repo](https://github.com/microsoft/MSMARCO-Document-Ranking)
       - [TREC 2019 Deep Learning track overview](https://arxiv.org/abs/2003.07820)
