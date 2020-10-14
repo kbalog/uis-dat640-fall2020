@@ -57,9 +57,9 @@ While the following is merely a recommendation, it may help you to stay on cours
 
 ## Evaluation
 
-Projects will be graded on the following criteria:
+Project submissions will be graded with respect the following categories:
 
-| Criteria | Points |
+| Category | Points |
 | -- | -- |
 | Problem understanding | 5 |
 | Baseline method | 10 |
@@ -69,14 +69,35 @@ Projects will be graded on the following criteria:
 | **Total** | **50** |
 
 *More details on each of the above criteria will follow.*
+The evaluation will not be automated like in the assignments, and therefore it will primarily proceed based on qualitative categories, rather than operationalized criteria. On the one hand, this means less certainty for you regarding what level of quality is good enough for a certain grade. On the other hand, if your work is truly excellent in some aspects within a category, this can make up for more deficient aspects in the same category. In short, do your best and the evaluation will look out for opportunities to justify awarding points. 
+
+Nevertheless, keep in mind that these key aspects of each grading category are some of the ways your project submission may score points:
+
 
   * Problem understanding
-    - Your ability to explain ("re-state") the problem and the associated challenges clearly. Identifying main families of approaches developed for the task at hand (literature review).
+    - Demonstrating your understanding of the chosen project and associated task. 
+	- Clearly explaining the problem at hand, and the challenges it may entail.
+	- Identifying main families of approaches developed for the task at hand (a literature review).
   * Baseline method
-    - Establishing a sensible baseline and evaluating it experimentally.
+    - Selecting a sensible baseline, implementing and evaluating it experimentally.
   * Advanced method(s)
-    - Motivating, designing and implementing one or multiple advanced approaches (either extending the baseline or employing a completely different approach found in the literature or designed by you). Key factors determining the points awarded include clarity of argumentation, creativity, demonstrated understanding of the advanced methods, extensiveness of the experiments, overall performance (improvements over baseline).
+    - Selecting an interesting or performant advanced method, implementing and evaluating it experimentally.
+    - Motivating, designing and implementing one or multiple advanced approaches.
+	    - Either extending the baseline,
+		- Employing a completely different approach found in the literature, or 
+		- Designing a method of your own. 
+	- Clarity of argumentation
+	- Creativity
+	- Demonstrating understanding of the advanced methods
+	- Extensiveness of the experiments
+	- Overall performance (improvements over baseline).
   * Report
-    - Ability to clearly explain the motivation behind the choices, the process you went through, and key technical decisions in a way that your results are reproducible based on the provided description. Analysis and discussion of results. Illustrations, plots and tables.
+    - Clearly explaining the motivation or rationale behind the choices made. 
+	- Documenting key technical decisions to support future reproducibility. 
+	    - This requires details with accessible wording and structuree
+	in a way that your results are reproducible based on the provided description. 
+	- Producing insight into the process through analysis and discussion of results. 
+	- Effectively using visual tools, such as illustrations, plots and tables to support and communicate your findings.
   * Code quality
-    - Clearly structured and readable code. Readability includes sensible variable/method naming conventions and adding docstrings/comments where necessary. 
+    - Clearly structured and readable code. 
+	- Readability includes sensible variable/method naming conventions and adding docstrings/comments where necessary. 
