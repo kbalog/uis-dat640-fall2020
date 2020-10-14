@@ -2,6 +2,7 @@
 
 ## Updates
 
+  * **Oct 14** Information on the [group project](project/) has been posted. You need to sign up by filling out [this form](https://forms.gle/1uB4FARyGPJ6d4rt7) by 19/10.
   * **Oct 14** The last assignment (A5) for 10 points has been pushed to the personal GitHub repositories. The deadline is 27/10 16:00.
   * **Oct 13** An error has been discovered in the description of Assignment A4 concerning the value of the Dirichlet smoothing parameter. See the [erratum](assignments/A4_erratum.md).
   * **Oct 7** The results for Assignment A2 have been published on Canvas. Questions concerning assignment correction may be asked during the Wed labs or via email at dat640help@gmail.com.
