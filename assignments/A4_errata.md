@@ -7,8 +7,6 @@ Under ‘Advanced entity retrieval: PRMS’, under ‘Retrieval method’, the D
 
 ## Indexing
 
-Getting less than 2500 items indexed will not be penalized. The tests will be adjusted if necessary. 
-
 Regarding the number of entities to be indexed, it appears the updating/editing of the subpages of 
 `'Lists_of_musicians'` has been happening more frequently than anticipated when creating the assignment,
 and thus the tests will need to be updated. For grading, we will update these tests at the time of grading. 
@@ -38,23 +36,6 @@ tv_5 = es.termvectors(index=INDEX_NAME, id='Deadmau5', fields=['types', 'descrip
 assert tv_5['term_vectors']['description']['terms']['italiano']['term_freq'] == 1
 ```
 
-
-The updated test cell for field mapping probabilities is:
-
-```
-# Tests for field mapping probabilities
-clm_3 = CollectionLM(es, analyze_query(es, 'gospel soul'))
-Pf_t_3_1 = get_term_mapping_probs(es, clm_3, 'gospel')
-assert Pf_t_3_1['description'] == pytest.approx(0.19345, abs=1e-5)
-assert Pf_t_3_1['attributes'] == pytest.approx(0.13442, abs=1e-5)
-assert Pf_t_3_1['related_entities'] == pytest.approx(0.30600, abs=1e-5)
-
-Pf_t_3_2 = get_term_mapping_probs(es, clm_3, 'soul')
-assert Pf_t_3_2['names'] == pytest.approx(0.01502, abs=1e-5)
-assert Pf_t_3_2['types'] == pytest.approx(0.10632, abs=1e-5)
-assert Pf_t_3_2['catch_all'] == pytest.approx(0.16552, abs=1e-5)
-```
-
 The updated test cell for `prms_retrieval` is 
 
 ```
@@ -76,6 +57,8 @@ assert prms_retrieval_3[:5] == ['Paul Bley', 'Stéphane Galland', 'Saifo', 'Chri
 and the final test cell comparing the above with baseline retrieval needs no update. 
 
 None of the other test cells in A4 need updating at this time. 
+
+Getting less than 2500 items indexed will not be penalized. The tests will be adjusted if necessary. 
 
 ## Field mapping probabilities
 
