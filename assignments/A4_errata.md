@@ -168,6 +168,6 @@ assert Pf_t_3_2['catch_all'] == pytest.approx(0.34302, abs=1e-5)
 
 ```
 
-This alternative test will replace the real test for the purposes of grading the assignment.  
+This alternative test will replace the original test for the purposes of grading the assignment.  
 
 
