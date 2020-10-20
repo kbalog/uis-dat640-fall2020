@@ -2,6 +2,7 @@
 
 ## Updates
 
+  * **Oct 20** There is an error in one of the tests of Assignment 4 (field mapping probabilities). This part of the exercise will be corrected manually. Also, getting less than 2500 items indexed will not be penalized.
   * **Oct 16** The trial exam will be available from Monday 19/10 09:00 until Tuesday 20/10 23:59 on Inspera. It should take 4 hours in total. The exam will not be corrected (apart from the auto-corrected exercises), but answer key will be shared afterwards.
   * **Oct 14** Information on the [group project](project/) has been posted. You need to sign up by filling out [this form](https://forms.gle/1uB4FARyGPJ6d4rt7) by 19/10.
   * **Oct 14** The last assignment (A5) for 10 points has been pushed to the personal GitHub repositories. The deadline is 27/10 16:00.
