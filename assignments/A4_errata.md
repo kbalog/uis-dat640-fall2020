@@ -54,9 +54,7 @@ prms_retrieval_3 = prms_retrieval(es, prms_query_3)
 assert prms_retrieval_3[:5] == ['Paul Bley', 'Stéphane Galland', 'Saifo', 'Christy Sutherland', 'K.d. lang']
 ```
 
-and the final test cell comparing the above with baseline retrieval needs no update. 
-
-None of the other test cells in A4 need updating at this time. 
+and the final test cell comparing the above with baseline retrieval needs no update.  
 
 Getting less than 2500 items indexed will not be penalized. The tests will be adjusted if necessary. 
 
@@ -154,7 +152,8 @@ class TestCollectionLM(object):
             }            
         }
     def prob(self, field, term):
-        return self._probs.get(field, {}).get(term, 0)        
+        return self._probs.get(field, {}).get(term, 0)
+        
 # Tests for field mapping probabilities
 clm_3 = TestCollectionLM()
 Pf_t_3_1 = get_term_mapping_probs(None, clm_3, 'gospel')
