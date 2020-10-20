@@ -164,7 +164,6 @@ Pf_t_3_2 = get_term_mapping_probs(None, clm_3, 'soul')
 assert Pf_t_3_2['names'] == pytest.approx(0.26679, abs=1e-5)
 assert Pf_t_3_2['types'] == pytest.approx(0, abs=1e-5)
 assert Pf_t_3_2['catch_all'] == pytest.approx(0.34302, abs=1e-5)
-
 ```
 
 This alternative test will replace the original test for the purposes of grading the assignment.  
