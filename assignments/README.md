@@ -10,7 +10,7 @@ Three main assignments, with the first two divided into sub-assignments (A and B
 |   A1.3 ([errata](A1_3_errata.md)) | 08/09 | 22/09 16:00 | 5 | Closed, graded |
 | Assignment 2 (A2) | 22/09 | 06/10 16:00 | 10 | Closed, graded |
 | Assignment 3 (A3) | 30/09 | 13/10 16:00 | 10 | Closed, being graded |
-| Assignment 4 (A4) ([errata](A4_errata.md)) | 07/10 | 22/10 16:00 | 10 | Open (deadline extended by 48h) |
+| Assignment 4 (A4) ([errata](A4_errata.md)) | 07/10 | **22/10 16:00** | 10 | Open (**deadline extended by 48h**) |
 | Assignment 5 (A5) | 14/10 | 27/10 16:00 | 10 | Open |
 | **Total** | | | **50** | |
 
