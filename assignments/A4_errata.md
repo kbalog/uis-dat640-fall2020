@@ -112,3 +112,78 @@ def get_term_mapping_probs(es, clm, term):
 
 Use the longer mathematical description under the heading "Retrieval method" in the 
 A4 notebook and note that the mapping probability is $P(f|t)$. 
+
+### Alternative test
+
+Since the field probability mapping depends on the index, and there are many discrepancies between what students are finding and the tests which are based on the updated index resulting from the reference solution, we have created an alternative test on a toy `TestCollectionLM` for use in testing `get_term_mapping_probs`. This new test cell should indicate whether your solution for `get_term_mapping_probs` is equivalent to the reference solution:
+
+```
+class TestCollectionLM(object):
+    def __init__(self):
+        self._probs = {
+            'names': {
+                't1': 1/3,
+                't2': 0,
+                't3': 1/9,
+                't4': 1/9,
+                't5': 1/3,
+                'gospel': 1/9,
+                'soul': 2/9
+            },
+            'types': {
+                't1': 5/18,
+                't2': 1/18,
+                't3': 1/3,
+                't4': 1/6,
+                't5': 1/6,
+                'gospel': 0,
+                'soul': 0                
+            },
+            'description': {
+                't1': 1/20,
+                't2': 1/20,
+                't3': 1/10,
+                't4': 1/10,
+                't5': 2/10,
+                'gospel': 4/10,
+                'soul': 1/5                 
+            },
+            'attributes': {                
+            },
+            'related_entities': {
+                't1': 1/8,
+                't2': 0,
+                't3': 0,
+                't4': 1/4,
+                't5': 0,
+                'gospel': 1/2,
+                'soul': 1/8                
+            },
+            'catch_all': {
+                't1': 2/14,
+                't2': 2/14,
+                't3': 1/14,
+                't4': 0,
+                't5': 2/14,
+                'gospel': 3/14,
+                'soul': 4/14                
+            }            
+        }
+    def prob(self, field, term):
+        return self._probs.get(field, {}).get(term, 0)        
+# Tests for field mapping probabilities
+clm_3 = TestCollectionLM()
+Pf_t_3_1 = get_term_mapping_probs(None, clm_3, 'gospel')
+assert Pf_t_3_1['description'] == pytest.approx(0.32642, abs=1e-5)
+assert Pf_t_3_1['attributes'] == pytest.approx(0, abs=1e-5)
+assert Pf_t_3_1['related_entities'] == pytest.approx(0.40803, abs=1e-5)
+Pf_t_3_2 = get_term_mapping_probs(None, clm_3, 'soul')
+assert Pf_t_3_2['names'] == pytest.approx(0.26679, abs=1e-5)
+assert Pf_t_3_2['types'] == pytest.approx(0, abs=1e-5)
+assert Pf_t_3_2['catch_all'] == pytest.approx(0.34302, abs=1e-5)
+
+```
+
+This alternative test will replace the real test for the purposes of grading the assignment.  
+
+
