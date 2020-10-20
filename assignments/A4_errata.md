@@ -77,7 +77,7 @@ and the final test cell comparing the above with baseline retrieval needs no upd
 
 None of the other test cells in A4 need updating at this time. 
 
-## (2) Field mapping probabilities
+## Field mapping probabilities
 
 There was a small notational inconsistency in the description and variable 
 names of the code for `get_term_mapping_probabilities`.
