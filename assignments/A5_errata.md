@@ -64,6 +64,6 @@ assert rankings_ltr['MSH2691'].index('87254618') < rankings_ltr['MSH2691'].index
 ```
 
 
-### Clarifiaction: Aggregate TF query-document features
+### Clarification: Aggregate TF query-document features
 
 The '{sum/max/avg}_TF_{field}' features should each be aggregated over a list of field-specific term frequencies in a document for each occurrence of a term in the list of analyzed query terms. That is, these features are to be computed over all query terms, not only unique ones.
