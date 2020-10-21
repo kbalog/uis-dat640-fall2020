@@ -2,6 +2,7 @@
 
 ## Updates
 
+  * **Oct 21** Clarifications regarding Assignment 5 have been posted [here](assignments/A5_errata.md).
   * **Oct 21** The results for Assignment A3 have been published. The majority of the submissions lost points on the hidden tests, in part due to not accounting for the possibility of empty fields when taking lengths of lists/documents and then dividing by zero. We have also updated the results for Assignment A1.3, where we decided it was more fair to award points for passing the visible part of the final test cell, even if the hidden part of the tests failed.
   * **Oct 20** Given the issues that surfaced in this assignment, the deadline is extended by 48 hours. Clarification and guidance have been posted [here](assignments/A4_errata.md).
   * **Oct 20** There is an error in one of the tests of Assignment 4 (field mapping probabilities). This part of the exercise will be corrected manually. Also, getting less than 2500 items indexed will not be penalized.
