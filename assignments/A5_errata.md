@@ -6,6 +6,7 @@ Regarding the function `extract_query_doc_features`, a correction and a clarific
 
 ### Correction: Unique Terms in Field
 
+The `unique_query_terms_in_{field}` feature yields the number of unique terms in the query that occur in the given document field.
 There was a code error in `unique_query_terms_in_{field}` that has been fixed, which necessitates updated test cells. 
 
 These are the test cells that will replace the ones in your notebook during grading. You may insert these to test your code solutions. Do not remove the incorrect test cells. 
