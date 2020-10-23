@@ -2,9 +2,23 @@
 
 The objective of project work is to apply the knowledge gained in the course to an open research problem.  Students are expected to work in groups of 2-3 and work on a project of their choosing from the list of available projects.
 
-**IMPORTANT** You'll need to sign up for the group project by filling out [this form](https://forms.gle/1uB4FARyGPJ6d4rt7) by 19 October at the latest. People failing to sign up will automatically receive 0 points on their project work.
+  * **Oct 23** Team and topic assignments have been sent out in email. Each group is allocated a dedicated 15mins slot (during what would normally be lecture hours) to discuss their progress. It is expected that at least one member of the group is present in person.  
 
-On the sign up form, you'll need to specify a first and a second project preference. We'll do our best to grant you your first preference and the best way for you to make sure it happens is to form a team with 1 or 2 additional students. Otherwise, we'll need to team you up with others.
+| **Team** | **Slot** |
+| -- | -- |
+| Team-001 | Monday 14:15-14:30 |
+| Team-002 | Monday 14:30-14:45 |
+| Team-003 | Monday 14:45-15:00 |
+| Team-004 | Monday 15:00-15:15 |
+| Team-005 | Monday 15:15-15:30 |
+| Team-006 | Monday 15:30-15:45 |
+| Team-007 | Monday 15:45-16:00 |
+| Team-008 | Tuesday 14:15-14:30 |
+| Team-009 | Tuesday 14:30-14:45 |
+| Team-010 | Tuesday 14:45-15:00 | 
+| Team-011 | Tuesday 15:00-14:15 |
+| Team-012 | Tuesday 15:15-14:30 |
+| Team-013 | Tuesday 15:30-14:45 |
 
 
 ## Projects
