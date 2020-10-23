@@ -2,6 +2,7 @@
 
 ## Updates
 
+  * **Oct 23** Team and topic assignments have been sent out in email. Each group is allocated a [dedicated 15mins slot](project/) (during what would normally be lecture hours) to discuss their progress. It is expected that at least one member of the group is present in person.
   * **Oct 23** The answer key to the trial exam (which was last year's exam) has been shared on Canvas.
   * **Oct 21** Clarifications regarding Assignment 5 have been posted [here](assignments/A5_errata.md).
   * **Oct 21** The results for Assignment A3 have been published. The majority of the submissions lost points on the hidden tests, in part due to not accounting for the possibility of empty fields when taking lengths of lists/documents and then dividing by zero. We have also updated the results for Assignment A1.3, where we decided it was more fair to award points for passing the visible part of the final test cell, even if the hidden part of the tests failed.
