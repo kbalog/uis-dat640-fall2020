@@ -39,6 +39,7 @@ You may choose one from the following projects:
     - Document collection: MS MARCO document corpus (3.2M documents, 22GB)
     - Resources
       - [Task GitHub repo](https://github.com/microsoft/MSMARCO-Document-Ranking)
+      - [Relevance judgments for evaluation topics](https://trec.nist.gov/data/cast/2019qrels.txt)
       - [TREC 2019 Deep Learning track overview](https://arxiv.org/abs/2003.07820)
   * **[TREC 2019 Conversational Assistance](http://www.treccast.ai/)**
     - Given a series of conversational utterances, identify relevant passages for each user utterance that satisfies the user's information need.
