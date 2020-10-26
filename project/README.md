@@ -1,8 +1,13 @@
 # Group project
 
-The objective of project work is to apply the knowledge gained in the course to an open research problem.  Students are expected to work in groups of 2-3 and work on a project of their choosing from the list of available projects.
+## Objectives
 
-**UPDATE (Oct 23)** Team and topic assignments have been sent out in email. Each group is allocated a dedicated 15mins slot (during what would normally be lecture hours) to discuss their progress. It is expected that at least one member of the group is present in person.
+The objective of project work is to apply the knowledge gained in the course, in a group setting, to a selected (open) information retrieval problem.
+Specifically, you'll first need to establish a reasonable baseline, then develop one or multiple advanced methods aiming to improve over the baseline. Using a standard test collection, you'll need to experimentally compare the baseline and advanced solutions.
+
+## Weekly meeting slots
+
+Each group is allocated a dedicated 15mins slot (during what would normally be lecture hours) to discuss their progress. It is expected that at least one member of the group is present in person.
 
 | **Team** | **Slot** |
 | -- | -- |
@@ -20,6 +25,10 @@ The objective of project work is to apply the knowledge gained in the course to 
 | Team-012 | Tuesday 15:15-15:30 |
 | Team-013 | Tuesday 15:30-15:45 |
 
+## Deadlines
+
+  * **Nov 6 12:00** Delivery of draft project report for feedback. The report is to be submitted in PDF format to dat640help@gmail.com with "Team-xxx draft project report" as subject. Feedback will be given during the Monday/Tuesday meeting the week after.
+  * **Nov 16 16:00** Delivery of final project report. The report is to be submitted in PDF format to dat640help@gmail.com with "Team-xxx project report" as subject.
 
 ## Projects
 
@@ -45,11 +54,6 @@ You may choose one from the following projects:
       - Papers: [Balog & Neumayer (2012)](https://krisztianbalog.com/files/cikm2012-querytypes.pdf), [Garigliotti et al. (2017)](https://krisztianbalog.com/files/sigir2017-qt.pdf)
 
 
-## Objectives
-
-The overall objective of the group project is to develop and experimentally compare approaches for a given information retrieval problem. Specifically, you'll first need to establish a reasonable baseline, then develop one or multiple advanced methods aiming to improve over the baseline. Using a standard test collection, you'll need to experimentally compare the baseline and advanced solutions.
-
-
 ## Workflow and rules
 
   * You'll need to hand in a report using the specified project template. The page limit for the report is 4 A4 pages (in double column format).
@@ -64,7 +68,7 @@ The overall objective of the group project is to develop and experimentally comp
 While the following is merely a recommendation, it may help you to stay on course.
 
   * Week 1:
-    - Understand the problem
+    - Understand the problem (and ideally complete the corresponding sections of the report)
     - Preprocess and index the document collection
     - Implement a baseline method
   * Week 2
@@ -75,6 +79,22 @@ While the following is merely a recommendation, it may help you to stay on cours
     - Run and evaluate your advanced method
     - Experiment with additional methods or refinements of your advanced method
     - Finalize your report
+
+## Report
+
+  * Use the [ACM two-column template](https://www.acm.org/publications/proceedings-template) for the report.
+  * It is highly recommended that you use LaTeX.  The ACM template is also available on [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt).
+
+### Structure
+
+Structure your paper according to the following sections:
+
+  * **Introduction** - Explain the context of the problem that you are tackling, including references to relevant literature.
+  * **Problem Statement** - Formalize the task (in terms of input and output) and specify important details about the data collection.
+  * **Baseline Method** - Explain what you are taking as your baseline method, as well as why this is a reasonable baseline, and why you are making specific implementation choices.
+  * **Advanced Method** - Explain what you are taking as your advanced method(s), as well as why this is a promising attempt to outperform the baseline method, and why you are making specific implementation choices.
+  * **Results** - With tables and graphs, make a clear, concise, and digestible presentation of the data produced by your experiments. This includes describing the key facts and trend from your results.
+  * **Discussion and Conclusions** - Summarize and discuss different challenges you faced and how you solved those. Include interpretations of the key facts and trends you observed and pointed out in the Results section. Which method performed best, and why? Speculate: What could you have differently, and what consequences would that have?
 
 
 ## Evaluation
@@ -90,7 +110,6 @@ Project submissions will be graded with respect the following categories:
 | Code quality | 5 |
 | **Total** | **50** |
 
-*More details on each of the above criteria will follow.*
 The evaluation will not be automated like in the assignments, and therefore it will primarily proceed based on qualitative categories, rather than operationalized criteria. On the one hand, this means less certainty for you regarding what level of quality is good enough for a certain grade. On the other hand, if your work is truly excellent in some aspects within a category, this can make up for more deficient aspects in the same category. In short, do your best and the evaluation will look out for opportunities to justify awarding points.
 
 Nevertheless, keep in mind that these key aspects of each grading category are some of the ways your project submission may score points:

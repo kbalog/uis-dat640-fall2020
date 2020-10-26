@@ -2,6 +2,7 @@
 
 ## Updates
 
+  * **Oct 26** Deadlines for the group project and further details on the report have been posted.
   * **Oct 23** Team and topic assignments have been sent out in email. Each group is allocated a [dedicated 15mins slot](project/) (during what would normally be lecture hours) to discuss their progress. It is expected that at least one member of the group is present in person.
   * **Oct 23** The answer key to the trial exam (which was last year's exam) has been shared on Canvas.
   * **Oct 21** Clarifications regarding Assignment 5 have been posted [here](assignments/A5_errata.md).
