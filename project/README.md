@@ -16,9 +16,9 @@ The objective of project work is to apply the knowledge gained in the course to 
 | Team-008 | Tuesday 14:15-14:30 |
 | Team-009 | Tuesday 14:30-14:45 |
 | Team-010 | Tuesday 14:45-15:00 |
-| Team-011 | Tuesday 15:00-14:15 |
-| Team-012 | Tuesday 15:15-14:30 |
-| Team-013 | Tuesday 15:30-14:45 |
+| Team-011 | Tuesday 15:00-15:15 |
+| Team-012 | Tuesday 15:15-15:30 |
+| Team-013 | Tuesday 15:30-15:45 |
 
 
 ## Projects
