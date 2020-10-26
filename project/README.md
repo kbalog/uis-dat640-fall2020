@@ -94,7 +94,7 @@ Structure your paper according to the following sections:
   * **Baseline Method** - Explain what you are taking as your baseline method, as well as why this is a reasonable baseline, and why you are making specific implementation choices.
   * **Advanced Method** - Explain what you are taking as your advanced method(s), as well as why this is a promising attempt to outperform the baseline method, and why you are making specific implementation choices.
   * **Results** - With tables and graphs, make a clear, concise, and digestible presentation of the data produced by your experiments. This includes describing the key facts and trend from your results.
-  * **Discussion and Conclusions** - Summarize and discuss different challenges you faced and how you solved those. Include interpretations of the key facts and trends you observed and pointed out in the Results section. Which method performed best, and why? Speculate: What could you have differently, and what consequences would that have?
+  * **Discussion and Conclusions** - Summarize and discuss different challenges you faced and how you solved those. Include interpretations of the key facts and trends you observed and pointed out in the Results section. Which method performed best, and why? Speculate: What could you have done differently, and what consequences would that have?
 
 
 ## Evaluation
