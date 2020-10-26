@@ -61,7 +61,7 @@ You may choose one from the following projects:
   * There are no restrictions on the programming language, toolkits/libraries used, etc. with the default choice being Python and the packages used in the exercises/assignments.
   * You are free to use any external data collections or resources (e.g., pre-trained embeddings) in addition to the 'official' problem datasets.
   * Some of the problems involve working with large datasets. If you need server access, you'll need to contact the Unix system administrator.
-  * While you are expected to work individually, you'll have the possibility to get feedback on your ideas in a regular weekly basis. For each group, there will be a weekly dedicated 15 mins slot to discuss the project with the lecturer. Also, there will be an internal intermediate deadline for getting feedback on the draft of your report.
+  * While you are expected to work independently as a group, you'll have the possibility to get feedback on your ideas in a regular weekly basis. For each group, there will be a weekly dedicated 15 mins slot to discuss the project with the lecturer. Also, there will be an internal intermediate deadline for getting feedback on the draft of your report.
 
 ## Timeline
 
