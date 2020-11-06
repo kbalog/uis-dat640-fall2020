@@ -2,6 +2,7 @@
 
 ## Updates
 
+  * **Nov 6** The results for Assignment A4 have been published. Every notebook failed the penultimate test, for PRMS retrieval, even when passing all other tests. Therefore, all submissions that had implemented `get_term_mapping_probs` and passed the tests for that also got +1 point towards the grade, on the suspicion that the PRMS retrieval test was too demanding.Since tests required updating during the assignment, every submission was checked manually, and where only minor changes were required to help submitted notebooks run, no additional points were deducted.Where reference solutions had to be copied in to make the overall notebook run, the immediately subsequent test’s points were deducted if this resulted in a higher overall score for the submission, compared to not inserting the partial reference solution.
   * **Oct 26** Deadlines for the group project and further details on the report have been posted.
   * **Oct 23** Team and topic assignments have been sent out in email. Each group is allocated a [dedicated 15mins slot](project/) (during what would normally be lecture hours) to discuss their progress. It is expected that at least one member of the group is present in person.
   * **Oct 23** The answer key to the trial exam (which was last year's exam) has been shared on Canvas.
