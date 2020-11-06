@@ -28,7 +28,7 @@ Each group is allocated a dedicated 15mins slot (during what would normally be l
 ## Deadlines
 
   * **Nov 6 12:00** Delivery of draft project report for feedback. The report is to be submitted in PDF format to dat640help@gmail.com with "Team-xxx draft project report" as subject. Feedback will be given during the Monday/Tuesday meeting the week after.
-  * **Nov 16 16:00** Delivery of final project report. The report is to be submitted in PDF format to dat640help@gmail.com with "Team-xxx project report" as subject.
+  * **Nov 16 16:00** Delivery of final project report. The report is to be submitted in PDF format to dat640help@gmail.com with "Team-xxx project report" as subject. The file should also be named "Team-xxx-...-report.pdf", where xxx should be changed to fit your team ID as provided, and the part shown as ellipses can be chosen freely. 
 
 ## Projects
 
