@@ -47,6 +47,7 @@ You may choose one from the following projects:
     - Resources
       - [Task GitHub repo](https://github.com/daltonj/treccastweb)
       - [TREC 2019 Conversational Assistance track overview](https://arxiv.org/abs/2003.13624)
+      - [TREC 2019 Conversational Assistance judgments for evaluation topics](https://trec.nist.gov/data/cast2019.html)
   * **[Semantic Answer Type Prediction](https://smart-task.github.io/)**
     - Given a question in natural language, the task is to predict type of the answer using a set of candidates from a target ontology (DBpedia).
     - Document collection: DBpedia ([dump 2016-10](https://wiki.dbpedia.org/downloads-2016-10)) and/or Wikidata
@@ -85,6 +86,7 @@ While the following is merely a recommendation, it may help you to stay on cours
 
   * Use the [ACM two-column template](https://www.acm.org/publications/proceedings-template) for the report.
   * It is highly recommended that you use LaTeX.  The ACM template is also available on [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt).
+  * **NB: Include the Team ID assigned to you in the report title or subtitle.**
 
 ### Structure
 
