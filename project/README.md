@@ -1,5 +1,18 @@
 # Group project
 
+**Nov 10** After reviewing the draft reports and our subsequent meetings with the project teams, here are some general points that all teams must keep in mind while writing their reports.
+
+  * Use complete sentences with correct grammar and appropriate words. Simpler is often better. This does not mean one should use informal language. Also, pay attention to punctuation (including spaces before references), and the formatting of your bibliography section.
+  * Stick to the structure that was provided. You may create subsections, but do not create additional sections (except References).
+  * Make sure you include all the important technical details. Could someone read your report and reproduce your (process and) results? The answer should be yes.
+  * When discussing the data collection, data preprocessing and training, include descriptive statistics (number of queries, documents, indexing time, training/validation/test splits, etc.).
+  * Unless you use a standard retrieval method like BM25, you should include the ranking formula and discuss the parameter settings. For machine learning approaches, you can simply state the algorithm, but you need to detail the features used and how your training set was constructed. (If you use implementation of a standard method from a given toolkit/library, state the version and whether you used the default parameter settings or deviated from that.)
+  * Throughout the report, explain what choices you made and why.
+  * Any claims about performance should be substantiated either with references to literature or to your own results.
+  * Make sure to include a results overview table, which should minimally contain the baseline and advanced methods as rows and the official evaluation metric(s) for the task as columns. Make sure to state the evaluation metrics and use the official evaluation scripts.
+
+You’ll need to submit the code along with your report. It can either be a zip file that you send to dat640help@gmail.com, or you can share your GitHub repository with us (with @kbalog and @tlinjordet). We only need your code, not the data files. Having a README explaining the contents of your zip file/repository will contribute to the Code quality aspect of the grade.
+
 ## Objectives
 
 The objective of project work is to apply the knowledge gained in the course, in a group setting, to a selected (open) information retrieval problem.
@@ -28,7 +41,7 @@ Each group is allocated a dedicated 15mins slot (during what would normally be l
 ## Deadlines
 
   * **Nov 6 12:00** Delivery of draft project report for feedback. The report is to be submitted in PDF format to dat640help@gmail.com with "Team-xxx draft project report" as subject. Feedback will be given during the Monday/Tuesday meeting the week after.
-  * **Nov 16 16:00** Delivery of final project report. The report is to be submitted in PDF format to dat640help@gmail.com with "Team-xxx project report" as subject. The file should also be named "Team-xxx-...-report.pdf", where xxx should be changed to fit your team ID as provided, and the part shown as ellipses can be chosen freely. 
+  * **Nov 16 16:00** Delivery of final project report. The report is to be submitted in PDF format to dat640help@gmail.com with "Team-xxx project report" as subject. The file should also be named "Team-xxx-...-report.pdf", where xxx should be changed to fit your team ID as provided, and the part shown as ellipses can be chosen freely.
 
 ## Projects
 

@@ -2,6 +2,7 @@
 
 ## Updates
 
+  * **Nov 10** Some general points to keep in mind for your project report have been added [here](project/). Note that the (strict and immutable) submission deadline is Nov 16 16:00.
   * **Nov 9** In light of the current situation, the group project meetings this week will go virtual. You'll receive the meeting details in email.
   * **Nov 6** The results for Assignment A4 have been published. Every notebook failed the penultimate test, for PRMS retrieval, even when passing all other tests. Therefore, all submissions that had implemented `get_term_mapping_probs` and passed the tests for that also got +1 point towards the grade, on the suspicion that the PRMS retrieval test was too demanding.Since tests required updating during the assignment, every submission was checked manually, and where only minor changes were required to help submitted notebooks run, no additional points were deducted.Where reference solutions had to be copied in to make the overall notebook run, the immediately subsequent test’s points were deducted if this resulted in a higher overall score for the submission, compared to not inserting the partial reference solution.
   * **Oct 26** Deadlines for the group project and further details on the report have been posted.
