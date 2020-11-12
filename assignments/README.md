@@ -11,7 +11,7 @@ Three main assignments, with the first two divided into sub-assignments (A and B
 | Assignment 2 (A2) | 22/09 | 06/10 16:00 | 10 | Closed, graded |
 | Assignment 3 (A3) | 30/09 | 13/10 16:00 | 10 | Closed, graded |
 | Assignment 4 (A4) ([errata](A4_errata.md)) | 07/10 | 22/10 16:00 | 10 | Closed, graded |
-| Assignment 5 (A5) ([errata](A5_errata.md)) | 14/10 | 27/10 16:00 | 10 | Closed, being graded |
+| Assignment 5 (A5) ([errata](A5_errata.md)) | 14/10 | 27/10 16:00 | 10 | Closed, graded |
 | **Total** | | | **50** | |
 
 ## Workflow and rules
