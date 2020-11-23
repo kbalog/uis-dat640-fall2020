@@ -66,11 +66,11 @@ There will be a pool of options to select a project from. During the project per
 | -- | -- | -- | -- |
 | Aug 24 | L1: Welcome and introduction | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-introduction) | [exercises](exercises/20200824/), [solutions](solutions/20200824/) |
 | Aug 25 | L2: Text classification | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification) | [exercises](exercises/20200825/), [solutions](solutions/20200825/) |
-| Aug 31 | L3: Text preprocessing | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-preprocessing), [video lecture](https://youtu.be/s7vvaCtJ7iU) | [exercises](exercises/20200831/), [solutions](solutions/20200831/) |
-| Sep 1 | L4: Text classification evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-evaluation), [video lecture](https://youtu.be/TFze1mbcEbY) | [exercises](exercises/20200901/), [solutions](solutions/20200901/) |
+| Aug 31 | L3: Text preprocessing | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-preprocessing), [video lecture](https://youtu.be/IuBvlOuD3js) | [exercises](exercises/20200831/), [solutions](solutions/20200831/) |
+| Sep 1 | L4: Text classification evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-evaluation), [video lecture](https://youtu.be/3LdPjTW3F6I) | [exercises](exercises/20200901/), [solutions](solutions/20200901/) |
 | Sep 7 | L5: Text classification: Naive Bayes  | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-naive-bayes) | [exercises](exercises/20200907/) |
 | | L6: Text clustering | (slides to be added) | [exercises](exercises/20200907/) |
-| Sep 21 | L7: Search engine architecture | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-search-engine-architecture) | [exercises](exercises/20200922/), [solutions](solutions/20200922/) |
+| Sep 21 | L7: Search engine architecture | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-search-engine-architecture), [video lecture](https://youtu.be/ar_XNgaimys) | [exercises](exercises/20200922/), [solutions](solutions/20200922/) |
 | | L8: Indexing and query processing | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-indexing-and-query-processing) | |
 | | L9: Retrieval evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-evaluation) | |
 | Sep 28 | L10: Retrieval models | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-models) | [exercises](exercises/20200929/), [solutions](solutions/20200929/) |
