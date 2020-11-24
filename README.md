@@ -72,7 +72,7 @@ There will be a pool of options to select a project from. During the project per
 | | L6: Text clustering | (slides to be added) | [exercises](exercises/20200907/) |
 | Sep 21 | L7: Search engine architecture | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-search-engine-architecture), [video lecture](https://youtu.be/ar_XNgaimys) | [exercises](exercises/20200922/), [solutions](solutions/20200922/) |
 | | L8: Indexing and query processing | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-indexing-and-query-processing), [video lecture](https://youtu.be/JNXn6BV9lMM) | |
-| | L9: Retrieval evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-evaluation) | |
+| | L9: Retrieval evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-evaluation), [video lecture](https://youtu.be/b8KoTQYDjxA) | |
 | Sep 28 | L10: Retrieval models | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-models) | [exercises](exercises/20200929/), [solutions](solutions/20200929/) |
 | | L11: Query modeling | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-query-modeling) | |
 | | L12: Web search | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-web-search) | |
