@@ -2,6 +2,7 @@
 
 ## Updates
 
+  * **Nov 25** Most video lectures have been published, and the remaining ones can be expected before the end of the week (without further announcement). Note that these are meant to be learning aids. The ultimate reference material is the corresponding book chapters. You may be delighted to hear that Clustering (L6) will not be part of the exam.
   * **Nov 12** The results for the last assignment A5 have been published.
   * **Nov 10** Some general points to keep in mind for your project report have been added [here](project/). Note that the (strict and immutable) submission deadline is Nov 16 16:00.
   * **Nov 9** In light of the current situation, the group project meetings this week will go virtual. You'll receive the meeting details in email.
