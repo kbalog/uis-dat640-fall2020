@@ -2,7 +2,7 @@
 
 ## Updates
 
-  * **Nov 25** Most video lectures have been published, and the remaining ones can be expected before the end of the week (without further announcement). Note that these are meant to be learning aids. The ultimate reference material is the corresponding book chapters. You may be delighted to hear that Clustering (L6) will not be part of the exam.
+  * **Nov 25** Most video lectures have been published, and the remaining ones can be expected before the end of the week (without further announcement). Note that these are meant to be learning aids. The ultimate reference material is the respective book chapters. You may be delighted to hear that Clustering (L6) will not be part of the exam.
   * **Nov 12** The results for the last assignment A5 have been published.
   * **Nov 10** Some general points to keep in mind for your project report have been added [here](project/). Note that the (strict and immutable) submission deadline is Nov 16 16:00.
   * **Nov 9** In light of the current situation, the group project meetings this week will go virtual. You'll receive the meeting details in email.
@@ -76,7 +76,7 @@ There will be a pool of options to select a project from. During the project per
 | | L9: Retrieval evaluation | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-evaluation), [video lecture](https://youtu.be/b8KoTQYDjxA) | |
 | Sep 28 | L10: Retrieval models | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-models), [video lecture](https://youtu.be/EAqjKmSbIzk) | [exercises](exercises/20200929/), [solutions](solutions/20200929/) |
 | | L11: Query modeling | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-query-modeling), [video lecture](https://youtu.be/2qBD5vbIgvc) | |
-| | L12: Web search | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-web-search) | |
+| | L12: Web search | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-web-search), [video lecture](https://youtu.be/hyrMVIM-h1I) | |
 | Oct 5 | L13: Semantic search: Entity-oriented search | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-oriented-search) | [exercises](exercises/20201006/), [solutions](solutions/20201006/) |
 |  | L14: Semantic search: Entity retrieval | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-retrieval) | |
 |  | L15: Semantic search: Entity linking | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-linking) | |
