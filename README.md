@@ -81,7 +81,7 @@ There will be a pool of options to select a project from. During the project per
 |  | L14: Semantic search: Entity retrieval | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-retrieval) | |
 |  | L15: Semantic search: Entity linking | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-linking) | |
 | | Elasticsearch | [code](code/elasticsearch) | |
-| Oct 12 | L16: Learning to rank | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-learning-to-rank), [code](blob/master/code/LTR.ipynb) | [exercises](exercises/20201013/), [solutions](solutions/20201013/) |
+| Oct 12 | L16: Learning to rank | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-learning-to-rank), [video lecture](https://youtu.be/fU_uSS2KU8Y), [code](blob/master/code/LTR.ipynb) | [exercises](exercises/20201013/), [solutions](solutions/20201013/) |
 |  | L17: Neural IR (invited) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-neural-ir), [video lecture](https://youtu.be/U0G-83_7ntw) | |
 |  | L18: Table retrieval (invited) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-table-retrieval), [video lecture](https://youtu.be/Bdw8UkLn2Ns) | |
 
