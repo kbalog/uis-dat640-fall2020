@@ -77,13 +77,15 @@ There will be a pool of options to select a project from. During the project per
 | Sep 28 | L10: Retrieval models | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-retrieval-models), [video lecture](https://youtu.be/EAqjKmSbIzk) | [exercises](exercises/20200929/), [solutions](solutions/20200929/) |
 | | L11: Query modeling | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-query-modeling), [video lecture](https://youtu.be/2qBD5vbIgvc) | |
 | | L12: Web search | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-web-search), [video lecture](https://youtu.be/hyrMVIM-h1I) | |
-| Oct 5 | L13: Semantic search: Entity-oriented search | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-oriented-search) | [exercises](exercises/20201006/), [solutions](solutions/20201006/) |
-|  | L14: Semantic search: Entity retrieval | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-retrieval) | |
-|  | L15: Semantic search: Entity linking | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-linking) | |
+| Oct 5 | L13: Semantic search: Entity-oriented search | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-oriented-search)<sup>&dagger;</sup> | [exercises](exercises/20201006/), [solutions](solutions/20201006/) |
+|  | L14: Semantic search: Entity retrieval | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-retrieval)<sup>&dagger;</sup> | |
+|  | L15: Semantic search: Entity linking | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-semantic-search-entity-linking)<sup>&dagger;</sup> | |
 | | Elasticsearch | [code](code/elasticsearch) | |
 | Oct 12 | L16: Learning to rank | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-learning-to-rank), [video lecture](https://youtu.be/fU_uSS2KU8Y), [code](blob/master/code/LTR.ipynb) | [exercises](exercises/20201013/), [solutions](solutions/20201013/) |
 |  | L17: Neural IR (invited) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-neural-ir), [video lecture](https://youtu.be/U0G-83_7ntw) | |
 |  | L18: Table retrieval (invited) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-table-retrieval), [video lecture](https://youtu.be/Bdw8UkLn2Ns) | |
+
+<sup>&dagger;</sup>Lectures L13-15 closely follow book chapters 1, 2, 3 and 5 of the Entity-Oriented Search book (available [open access](https://rd.springer.com/content/pdf/10.1007%2F978-3-319-93935-3.pdf)), therefore, no video lectures are made for them. Read those for a detailed narrative.
 
 ## Grading
 
