@@ -2,6 +2,7 @@
 
 ## Updates
 
+  * **Nov 30** The group projects have been graded. You can find the overall score in Canvas, while a detailed breakdown (following the criteria  [explained in this document](/project/Grading.md)) has been sent out in email. 
   * **Nov 25** Most video lectures have been published, and the remaining ones can be expected before the end of the week (without further announcement). Note that these are meant to be learning aids. The ultimate reference material is the respective book chapters. You may be delighted to hear that Clustering (L6) will not be part of the exam.
   * **Nov 12** The results for the last assignment A5 have been published.
   * **Nov 10** Some general points to keep in mind for your project report have been added [here](project/). Note that the (strict and immutable) submission deadline is Nov 16 16:00.
