@@ -2,6 +2,7 @@
 
 ## Updates
 
+  * **Dec 14** The exam has been corrected and the answer key can be found on Canvas.
   * **Dec 1** The project grades have been registered in FSWeb. Recall that 50% of the grade comes from the individual assignments while another 50% is from the group project. You can find your detailed score breakdown in Canvas.The grade is based on the total points: A: 90-100, B: 80-89, C: 60-79, D: 50-59, E: 40-49, F: 0-39.
   * **Nov 30** The group projects have been graded. You can find the overall score in Canvas, while a detailed breakdown (following the criteria  [explained in this document](/project/Grading.md)) has been sent out in email.
   * **Nov 25** Most video lectures have been published, and the remaining ones can be expected before the end of the week (without further announcement). Note that these are meant to be learning aids. The ultimate reference material is the respective book chapters. You may be delighted to hear that Clustering (L6) will not be part of the exam.
